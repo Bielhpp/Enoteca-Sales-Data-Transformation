@@ -1,0 +1,2 @@
+# Enoteca Sales Data Transformation
+ Enoteca Sales Data Transformation Este projeto se concentra na transformação de dados brutos de vendas de uma enoteca, que foram extraídos da plataforma de controle de vendas Bling (https://www.bling.com.br). Os dados extraídos estão desorganizados e requerem limpeza e formatação antes de serem usados para análise ou outras finalidades. Neste repositório, você encontrará o código utilizado para a transformação dos dados usando a linguagem de programação Python e a biblioteca Apache Spark.
