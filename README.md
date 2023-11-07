@@ -9,30 +9,30 @@ Antes de executar o código neste projeto, é necessário ter as seguintes ferra
 Certifique-se de que todas as dependências estejam instaladas antes de prosseguir.
 
 # Transformação de Dados
-# Leitura dos Dados
+### Leitura dos Dados
 Primeiramente, é necessário ler os dados brutos que foram extraídos da plataforma Bling.
 
-# Limpeza e Formatação
+### Limpeza e Formatação
 A limpeza e formatação dos dados envolvem várias etapas:
 
-# Remoção de linhas desnecessárias
+### Remoção de linhas desnecessárias
 Preenchimento de valores nulos na coluna "Cliente"
 Conversão de números em strings para números decimais
 Remoção de colunas não desejadas
 
-# Visualização dos Dados
+### Visualização dos Dados
 Se necessário, você pode exibir o DataFrame resultante usando Pandas
 
-# Exportação dos Dados
+### Exportação dos Dados
 Para facilitar o manuseio em outras ferramentas, os dados transformados são exportados em um arquivo CSV
 
-# Uso
+## Uso
 Você pode usar os dados transformados para análise, relatórios ou qualquer outra finalidade desejada.
 
-# Contribuições
+## Contribuições
 Contribuições são bem-vindas! Se você encontrar maneiras de melhorar o código ou identificar problemas, sinta-se à vontade para criar uma issue ou enviar um pull request.
 
-# Licença
+## Licença
 Este projeto é licenciado sob a Licença MIT. Veja o arquivo LICENSE para obter mais detalhes.
 
 Esse README fornece uma visão geral do projeto, das etapas de transformação de dados e dos requisitos necessários. Certifique-se de adaptá-lo ao seu projeto e adicionar qualquer informação adicional relevante.
